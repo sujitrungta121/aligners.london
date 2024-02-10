@@ -304,6 +304,14 @@ width:100%;
     justify-items:center;
     width:100%;
 }
+
+.welcome-content .first-content{
+    font-size:50px;
+}
+.welcome-content .second-content{
+    display:block;
+}
+
 /* .body-part img{
  
 } */
